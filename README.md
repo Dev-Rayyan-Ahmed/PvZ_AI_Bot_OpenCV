@@ -1,8 +1,15 @@
 # 🌻 PvZ_AI_Bot_OpenCV
 
+## 👨‍💻 About This Project
+
+This project was created by me as a hands-on exercise after learning **OpenCV**. It serves as a practical application of the skills I gained and explores how computer vision can be used to automate gameplay in a real-time environment.
+
+---
+
 ## 🧠 Project Description
 
-**PvZ_AI_Bot_OpenCV** is an automation AI bot built using **OpenCV**, **Python**, and **PyAutoGUI** that can autonomously play *Plants vs Zombies (PvZ 1)* using a classic **rule-based logic system**.
+**PvZ_AI_Bot_OpenCV** is an automation AI bot built using **OpenCV**, **Python**, and **PyAutoGUI** that can autonomously play *Plants vs Zombies 
+(PvZ 1)* using a classic **rule-based logic system**.
 
 The bot captures the screen in real time, detects zombies, sunflowers, and sun resources using image processing techniques, and simulates user inputs to plant the right defenses in response to in-game threats.
 
@@ -30,6 +37,6 @@ The bot captures the screen in real time, detects zombies, sunflowers, and sun r
 
 ## 🎯 Purpose & Impact
 
-This project demonstrates the **practical application of computer vision** in a real-time gaming environment. It highlights how intelligent automation and decision-making can be implemented using traditional AI techniques—making it a great learning example for beginners and hobbyists interested in **game AI**, **automation**, or **computer vision**.
+This project demonstrates the **practical application of computer vision** in a real-time gaming environment. It highlights how intelligent automation and decision-making can be implemented using traditional AI techniques, making it a great learning example for beginners and hobbyists interested in **game AI**, **automation**, or **computer vision**.
 
 ---
